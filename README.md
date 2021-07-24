@@ -1,5 +1,6 @@
 What is Application State?
 ---
+Live view [here](https://movie-search-vue.vercel.app/)
 * [x] Build a Movie Search App with Vue
   * [x] Get movie search term from user
   * [x] fetch API with search term
